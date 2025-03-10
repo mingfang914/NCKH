@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\NCKH\\NCKH-WebApp\\NCKH\\NCKH.ITExam\\ITExam\\ITExam.csproj": {}
+    "D:\\NCKH\\NCKH-WebApp\\TestGithub\\NCKH.ITExam\\ITExam\\ITExam.csproj": {}
   },
   "projects": {
-    "D:\\NCKH\\NCKH-WebApp\\NCKH\\NCKH.ITExam\\ITExam\\ITExam.csproj": {
+    "D:\\NCKH\\NCKH-WebApp\\TestGithub\\NCKH.ITExam\\ITExam\\ITExam.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\NCKH\\NCKH-WebApp\\NCKH\\NCKH.ITExam\\ITExam\\ITExam.csproj",
+        "projectUniqueName": "D:\\NCKH\\NCKH-WebApp\\TestGithub\\NCKH.ITExam\\ITExam\\ITExam.csproj",
         "projectName": "ITExam",
-        "projectPath": "D:\\NCKH\\NCKH-WebApp\\NCKH\\NCKH.ITExam\\ITExam\\ITExam.csproj",
+        "projectPath": "D:\\NCKH\\NCKH-WebApp\\TestGithub\\NCKH.ITExam\\ITExam\\ITExam.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\NCKH\\NCKH-WebApp\\NCKH\\NCKH.ITExam\\ITExam\\obj\\",
+        "outputPath": "D:\\NCKH\\NCKH-WebApp\\TestGithub\\NCKH.ITExam\\ITExam\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
